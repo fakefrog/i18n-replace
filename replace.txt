@@ -1,0 +1,106 @@
+\u958B\u5E97\u5C31\u7528\u4E8C\u7DAD\u706B\uFF0C\u751F\u610F\u4E00\u5B9A\u66F4\u7D05\u706B@Better Dining&amp; Smarter Business
+\u5F00\u5E97\u5C31\u7528\u4E8C\u7EF4\u706B\uFF0C\u751F\u610F\u4E00\u5B9A\u66F4\u7EA2\u706B@Better Dining&amp; Smarter Business
+\u4E8C\u7EF4\u706B\u53D6\u9910\u53EB\u53F7@Novo Pickup
+\u4E8C\u7DAD\u706B\u53D6\u9910\u53EB\u865F@Novo Pickup
+\u4E8C\u7EF4\u706B\u670D\u52A1\u751F@Novo Mobile POS
+\u4E8C\u7EF4\u706B\u526F\u6536\u94F6@Novo Subsidiary
+\u4E8C\u7EF4\u706B\u4E91\u6536\u94F6@Novo Mobile POS
+\u4E8C\u7DAD\u706B\u670D\u52D9\u751F@Novo Mobile POS
+\u4E8C\u7DAD\u706B\u526F\u6536\u9280@Novo Subsidiary
+\u4E8C\u7DAD\u706B\u4E91\u6536\u9280@Novo Mobile POS
+\u4E8C\u7EF4\u706B\u540E\u53F0@Webpage Management Portal
+\u4E8C\u7EF4\u706B\u5C0F\u4E8C@E-Menu
+\u4E8C\u7EF4\u706B\u638C\u67DC@Novo Manager
+\u4E8C\u7EF4\u706B\u6536\u94F6@Novo POS
+\u4E8C\u7EF4\u706B\u5546\u5E97@Novo App Store
+\u4E8C\u7EF4\u706B\u5BA2\u663E@Customer Display
+\u4E8C\u7EF4\u706B\u6392\u961F@Novo Waiting List
+\u4E8C\u7DAD\u706B\u6536\u9280@Novo POS
+\u706B\u638C\u67DC\u540E\u53F0@Webpage Management Portal
+\u4E8C\u7DAD\u706B\u638C\u6AC3@Novo Manager
+\u4E8C\u7DAD\u706B\u638C\u67DC@Novo Manager
+\u4E8C\u7DAD\u706B\u5F8C\u81FA@Webpage Management Portal
+\u4E8C\u7DAD\u706B\u5C0F\u4E8C@E-Menu
+\u4E8C\u7DAD\u706B\u5BA2\u986F@Customer Display
+\u4E8C\u7DAD\u706B\u5BA2\u663E@Customer Display
+\u4E8C\u7DAD\u706B\u5546\u5E97@Novo App Store
+\u706B\u670D\u52A1\u751F@Novo Mobile POS
+\u706B\u670D\u52D9\u751F@Novo Mobile POS
+2DFIRECustomerservice@Customer Service
+\u706B\u6536\u94F6HD@Novo Subsidiary
+DManager'sbackstage@Webpage Management Portal
+\u706B\u9322\u5305@Novo Wallet
+\u526F\u6536\u9280@Novo Subsidiary
+\u706B\u94B1\u5305@Novo Wallet
+\u706B\u914D\u9001@Logistics
+\u706B\u901A\u5361@Foodie Card
+\u4E91\u6536\u94F6@Novo Mobile POS
+\u706B\u6703\u54E1@Members
+\u706B\u6536\u94F6@Novo POS
+\u706B\u6536\u9280@Novo POS
+\u706B\u6392\u968A@Novo Waiting List
+\u706B\u4F1A\u5458@Members
+\u706B\u56FE\u5E93@Gallery
+\u706B\u5C0F\u4E8C@E-Menu
+\u706B\u6392\u961F@Novo Waiting List
+\u706B\u638C\u6AC3@Novo Manager
+\u706B\u638C\u67DC@Novo Manager
+\u4E8C\u7DAD\u706B@Novo
+\u4E8C\u7EF4\u706B@Novo
+\u96F2\u6536\u9280@Novo Mobile POS
+D-EnterpriseCard@Foodie Card
+DMealTakingCall@Novo Pickup
+fireshopkeeper@Novo Manager
+2DFIREDDining@E-Menu
+2DFIREDINNING@E-Menu
+2DFireDisplay@Customer Display
+2DFireManager@Novo Manager
+2DFIREManager@Novo Manager
+2DFireBackend@Webpage Management Portal
+firedispenser@Novo Manager
+\u5BA2\u663E@Customer Display
+\u5C0F\u4E8C@E-Menu
+\u6536\u9280@NovoPOS
+\u6536\u94F6@Novo POS
+2Dfiredining@E-Menu
+2DfireDining@E-Menu
+\u706B\u76D8@RFID Reader
+\u706B\u76E4@RFID Reader
+2DFireStore@Novo App Store
+HuoTongcard@Foodie Card
+Huotongcard@Foodie Card
+Diancaibao@Novo Mobile POS
+HuoQianBao@Novo Wallet
+2DfireShop@Novo App Store
+2DFirePOS@Novo POS
+2DFIREPOS@Novo POS
+2DfirePOS@Novo POS
+D-Manager@Novo Manager
+D-manager@Novo Manager
+D Queuing@Novo Waiting List
+huoxiaoer@Customer Service
+DQueuing@Novo Waiting List
+fireCard@Foodie Card
+DManager@Novo Manager
+DDisplay@Customer Display
+FireCard@Foodie Card
+DWallet@Novo Wallet
+DWaiter@Novo Mobile POS
+DManage@Novo Manager
+DDining@E-Menu
+Ddining@E-Menu
+2D Fire@Novo
+2DFire@Novo
+2Dfire@Novo
+2DFIRE@Novo
+POSHD@Novo POS
+Dfire@Novo
+DFire@Novo
+DCard@Foodie Card
+DPOS@Novo POS
+Take meal @Pickup
+Queuing@Waiting List
+D Meal Taking@Novo Pickup
+Meal Taking@Pickup
+By using D Dining, Alipay, Wechat or QQ to scan code, customers could dine-in, order deliveries, take queue number, as well as take cards and coupons, and view promotion activities etc.@Customers can scan QR code via Novo Prime app, Facebook, Line etc. to access E-Menu and interact with the shop via various functions below.
+Yesterday's touched customers@Yesterday's customers
