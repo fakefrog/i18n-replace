@@ -51,6 +51,7 @@ DManager'sbackstage@Webpage Management Portal
 D-EnterpriseCard@Foodie Card
 DMealTakingCall@Novo Pickup
 fireshopkeeper@Novo Manager
+Item and Combo@Menu
 2DFIREDDining@E-Menu
 2DFIREDINNING@E-Menu
 2DFireDisplay@Customer Display
