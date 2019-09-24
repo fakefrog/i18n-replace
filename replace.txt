@@ -1,5 +1,8 @@
 \u958B\u5E97\u5C31\u7528\u4E8C\u7DAD\u706B\uFF0C\u751F\u610F\u4E00\u5B9A\u66F4\u7D05\u706B@Better Dining&amp; Smarter Business
 \u5F00\u5E97\u5C31\u7528\u4E8C\u7EF4\u706B\uFF0C\u751F\u610F\u4E00\u5B9A\u66F4\u7EA2\u706B@Better Dining&amp; Smarter Business
+By using D Dining, Alipay, Wechat or QQ to scan code, customers could dine-in, order deliveries, take queue number, as well as take cards and coupons, and view promotion activities etc.@Customers can scan QR code via Novo Prime app, Facebook, Line etc. to access E-Menu and interact with the shop via various functions below.
+Yesterday's touched customers@Yesterday's customers
+No queuing basic data, please login D Queuing first!@No basic data, please login Novo Waiting List app first.
 \u4E8C\u7EF4\u706B\u53D6\u9910\u53EB\u53F7@Novo Pickup
 \u4E8C\u7DAD\u706B\u53D6\u9910\u53EB\u865F@Novo Pickup
 \u4E8C\u7EF4\u706B\u670D\u52A1\u751F@Novo Mobile POS
@@ -106,5 +109,4 @@ Take meal @Pickup
 Queuing@Waiting List
 D Meal Taking@Novo Pickup
 Meal Taking@Pickup
-By using D Dining, Alipay, Wechat or QQ to scan code, customers could dine-in, order deliveries, take queue number, as well as take cards and coupons, and view promotion activities etc.@Customers can scan QR code via Novo Prime app, Facebook, Line etc. to access E-Menu and interact with the shop via various functions below.
-Yesterday's touched customers@Yesterday's customers
+
