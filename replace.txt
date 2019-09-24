@@ -52,6 +52,8 @@ D-EnterpriseCard@Foodie Card
 DMealTakingCall@Novo Pickup
 fireshopkeeper@Novo Manager
 Item and Combo@Menu
+Foreign matter@Not clean
+Old customer@Loyal customer
 2DFIREDDining@E-Menu
 2DFIREDINNING@E-Menu
 2DFireDisplay@Customer Display
@@ -90,6 +92,7 @@ DWaiter@Novo Mobile POS
 DManage@Novo Manager
 DDining@E-Menu
 Ddining@E-Menu
+too long@Too long
 2D Fire@Novo
 2DFire@Novo
 2Dfire@Novo
