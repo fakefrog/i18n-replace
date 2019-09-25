@@ -34,6 +34,7 @@ No queuing basic data, please login D Queuing first!@No basic data, please login
 \u706B\u6536\u94F6HD@Novo Subsidiary
 DManager'sbackstage@Webpage Management Portal
 \u706B\u9322\u5305@Novo Wallet
+Whole Bill Discount@All Items Discount
 \u526F\u6536\u9280@Novo Subsidiary
 \u706B\u94B1\u5305@Novo Wallet
 \u706B\u914D\u9001@Logistics
